@@ -4,7 +4,7 @@ My collection of APKs and IPAs
 
 If you have APK/IPA not listed feel free to open request
 
-## File Names
+## APKs
 
 0317_10_TenkafuMA - 1.1.5-erolabs
 
@@ -31,3 +31,13 @@ If you have APK/IPA not listed feel free to open request
 0607_25_1_TenkafuMADiablosHarem - 1.13.0-erolabs
 
 0628_26_1_TenkafuMADiablosHarem - 1.13.1-erolabs
+
+## IPAs
+
+0602_3_1_TenkafuMADiablosHarem - 1.7.2-erolabs
+
+0329_9_1_TenkafuMADiablosHarem - 1.12.0-erolabs
+
+0607_10_1_TenkafuMADiablosHarem - 1.13.0-erolabs
+
+0628_11_1_TenkafuMADiablosHarem - 1.13.1-erolabs
