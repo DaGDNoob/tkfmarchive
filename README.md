@@ -62,6 +62,8 @@ If you have APK/IPA not listed feel free to open request
 
 0628_11_1_TenkafuMADiablosHarem - 1.13.1-erolabs
 
+0809_12_1_TenkafuMADiablosHarem - 1.13.2-erolabs
+
 0913_13_1_TenkafuMADiablosHarem - 1.14.0-erolabs
 
 0925_15_1_TenkafuMADiablosHarem - 1.14.1-erolabs
